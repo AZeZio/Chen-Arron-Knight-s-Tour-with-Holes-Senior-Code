@@ -1,4 +1,5 @@
 // Parts of the program were taken from https://www.geeksforgeeks.org/warnsdorffs-algorithm-knights-tour-problem/ and remade to fit the research problem
+// Ran on VSCode
 
 //Sets all possible moves of the knight
 const allKnightMoves = [
